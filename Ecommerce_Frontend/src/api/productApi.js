@@ -1,4 +1,4 @@
-const API_BASE_URL = import.meta.env.VITE_API_URL || "https://mern-tcss-4.onrender.com";
+const API_BASE_URL = import.meta.env.VITE_API_URL || "https://mern-tcss-5.onrender.com";
 
 export const getProducts = async () => {
   try {
