@@ -5,7 +5,7 @@ const About = () => {
     <main className="max-w-6xl mx-auto px-6 py-10">
       <section className="bg-gradient-to-r from-yellow-100 via-pink-200 to-purple-200 rounded-2xl py-16 px-6 text-center shadow-lg">
         <h1 className="text-4xl font-extrabold text-white">About Bella Boutique</h1>
-        <p className="mt-4 text-white/90">Empowering women through fashion.</p>
+        <p className="mt-4 text-white/90">women through fashion.</p>
       </section>
 
       <section className="mt-8 bg-white rounded-xl p-8 shadow">
