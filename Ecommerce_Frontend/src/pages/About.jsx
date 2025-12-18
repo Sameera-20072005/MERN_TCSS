@@ -15,7 +15,7 @@ const About = () => {
 
       <section className="mt-6 bg-white rounded-xl p-8 shadow">
         <h2 className="text-2xl text-boutiquePink font-bold">Our Mission</h2>
-        <p className="mt-3 text-gray-600"> to offer a curated selection of clothing that combines comfort, style, and affordability. We're committed to sustainable fashion practices and ethical sourcing.</p>
+        <p className="mt-3 text-gray-600">We aim to offer a curated selection of clothing that combines comfort, style, and affordability. We're committed to sustainable fashion practices and ethical sourcing.</p>
       </section>
 
       <section className="mt-6 grid md:grid-cols-3 gap-6">
